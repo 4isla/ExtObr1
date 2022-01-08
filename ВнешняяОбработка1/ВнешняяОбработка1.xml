@@ -15,7 +15,7 @@
 			<Name>ВнешняяОбработка1</Name>
 			<Synonym/>
 			<Comment/>
-			<DefaultForm/>
+			<DefaultForm>ExternalDataProcessor.ВнешняяОбработка1.Form.Форма</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>
 		<ChildObjects>
@@ -133,6 +133,7 @@
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 				</Properties>
 			</Attribute>
+			<Form>Форма</Form>
 		</ChildObjects>
 	</ExternalDataProcessor>
 </MetaDataObject>
