@@ -28,6 +28,11 @@
 			<CommandName>Form.Command.Команда1</CommandName>
 			<ExtendedTooltip name="Команда1РасширеннаяПодсказка" id="11"/>
 		</Button>
+		<Button name="Команда2" id="12">
+			<Type>UsualButton</Type>
+			<CommandName>Form.Command.Команда2</CommandName>
+			<ExtendedTooltip name="Команда2РасширеннаяПодсказка" id="13"/>
+		</Button>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">
