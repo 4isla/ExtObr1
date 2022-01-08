@@ -52,12 +52,6 @@
 			</Title>
 			<Action>Команда1</Action>
 		</Command>
-	</Commands>
-					<v8:content>Команда2</v8:content>
-				</v8:item>
-			</ToolTip>
-			<Action>Команда2</Action>
-		</Command>
 		<Command name="Команда2" id="1">
 			<Title>
 				<v8:item>
