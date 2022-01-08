@@ -23,6 +23,11 @@
 			<ContextMenu name="СтрокаКонтекстноеМеню" id="8"/>
 			<ExtendedTooltip name="СтрокаРасширеннаяПодсказка" id="9"/>
 		</InputField>
+		<Button name="Команда1" id="10">
+			<Type>UsualButton</Type>
+			<CommandName>Form.Command.Команда1</CommandName>
+			<ExtendedTooltip name="Команда1РасширеннаяПодсказка" id="11"/>
+		</Button>
 		<Button name="Команда2" id="10">
 			<Type>UsualButton</Type>
 			<CommandName>Form.Command.Команда2</CommandName>
@@ -38,6 +43,21 @@
 		</Attribute>
 	</Attributes>
 	<Commands>
+		<Command name="Команда1" id="1">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Клиент1</v8:content>
+				</v8:item>
+			</Title>
+			<Action>Команда1</Action>
+		</Command>
+	</Commands>
+					<v8:content>Команда2</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>Команда2</Action>
+		</Command>
 		<Command name="Команда2" id="1">
 			<Title>
 				<v8:item>
